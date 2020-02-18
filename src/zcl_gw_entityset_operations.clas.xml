@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_GW_ENTITYSET_OPERATIONS</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>oData operations handler for any entity set.</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+    <WITH_UNIT_TESTS>X</WITH_UNIT_TESTS>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_GW_ENTITYSET_OPERATIONS</CLSNAME>
+     <CMPNAME>APPLY_PAGING</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Applies paging ($top,$skip) to the entity set</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_GW_ENTITYSET_OPERATIONS</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Constructor. DPC_EXT instance must be passed in</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_GW_ENTITYSET_OPERATIONS</CLSNAME>
+     <CMPNAME>FILTER_SET</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Filters ($filter) entity set</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_GW_ENTITYSET_OPERATIONS</CLSNAME>
+     <CMPNAME>HANDLE_SET_QUERY_OPTIONS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Handles filtering, sorting, paging and counting.</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
