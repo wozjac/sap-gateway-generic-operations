@@ -18,6 +18,7 @@ Licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 # Author
 Feel free to contact me:  
-- wozjac@zoho.com 
-- Twitter (https://twitter.com/jacekwoz)  
+- wozjac@zoho.com
+- [jackew.dev](https://jacekw.dev)
+- Bluesky (<https://jacekwoz.bsky.social>)  
 - LinkedIn (https://www.linkedin.com/in/jacek-wznk)
